@@ -1,0 +1,21 @@
+.list{
+    padding: 0 20px;
+}
+
+.list i {
+    font-size: 1px;
+}
+
+.list-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+
+}
+.list-container__item img {
+    margin-bottom: 10px;
+    width: 70px;
+    height: 105px;
+    object-fit: cover;
+    border-radius: 5px;
+}
